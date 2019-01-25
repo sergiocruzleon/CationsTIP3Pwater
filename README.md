@@ -4,7 +4,7 @@ Force field for monovalent and divalent metal cations in TIP3P water
 **Introduction**
 
 
- If you use TIP3P -ff in your work, please cite the following paper[See online](https://aip.scitation.org/doi/abs/10.1063/1.5017694):
+ If you use TIP3P -ff in your work, please cite the following paper [(See online)](https://aip.scitation.org/doi/abs/10.1063/1.5017694):
  
  ```
 @article{mamatkulov2018force, 
